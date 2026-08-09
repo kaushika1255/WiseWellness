@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ns3env/
+ns3ai_env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment variables / secrets
+.env
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Generated audio
+*.wav
+*.mp3
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

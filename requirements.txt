@@ -1,0 +1,10 @@
+opencv-contrib-python==4.7.0.72
+numpy==1.24.4
+Pillow==9.0.1
+pandas==2.3.3
+pyttsx3==2.99
+twilio==9.10.5
+sounddevice==0.5.5
+scipy==1.8.0
+soundfile==0.13.1
+pygame==2.6.1
